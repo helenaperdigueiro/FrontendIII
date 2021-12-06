@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+header ul {
+    display: flex;
+    column-gap: 2rem;
+    justify-content: flex-end;
+    background-color: black;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+header a {
+    color: whitesmoke;
+}
+
+header img {
+    width: 100%;
+}

@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    background: black;
+}
+
+h2, button {
+    color: whitesmoke;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.8rem;
+}
+
+button {
+    cursor: pointer;
+}
